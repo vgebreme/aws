@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Lost and Found Dogs</title>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="main.css" />
+	</head>
+	<body>
+		<header>
+			<h1>Lost Dogs</h1>
+			<h2>Is this your dog?</h2>
+		</header>
+		<label>Search My Lost and Found Dog Database</label>
+		<select class="select-css" data-role="breed_select" data-action="choose_breed">
+			<option selected="All">All</option>
+			<option value="German Shepard">German Shepard</option>
+			<option value="Bulldog">Bulldog</option>
+			<option value="Basset Hound">Basset Hound</option>
+			<option value="Pomeranian">Pomeranian</option>
+			<option value="Maltese">Maltese</option>
+			<option value="Beagle">Beagle</option>
+			<option value="Himalayan">Himalayan</option>
+			<option value="Husky">Husky</option>
+			<option value="Golden-doodle">Golden-doodle</option>
+			<option value="Greyhound">Greyhound</option>
+			<option value="Shih-Tzu">Shih-Tzu</option>
+			<option value="Chihuahua">Chihuahua</option>
+			<option value="Rottweiler">Rottweiler</option>
+			<option value="Dalmatian">Dalmatian</option>
+			<option value="French Bulldog">French Bulldog</option>
+			<option value="Golden Retriever">Golden Retriever</option>
+			<option value="Pitbull">Pitbull</option>
+			<option value="Border Collie">Border Collie</option>
+			<option value="Dachshund">Dachshund</option>
+			
+			<option value="Bloodhound">Bloodhound</option>
+		</select>
+
+		<p>
+			Call to claim your dog! <tel>703-888-888</tel>
+		</p>
+
+		<h3 data-role="filter_type">Showing all dogs</h3>
+		<section data-role="dog_info" data-showing="not_showing">
+				
+		</section>
+		<script src="config.js"></script>
+		<script src="jquery-3.4.0.min.js"></script>
+		<script src="main.js"></script>
+	</body>
+</html>

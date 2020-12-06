@@ -1,0 +1,127 @@
+[{
+	"breed_str": "German Shepard",
+	"gender_str": "Male",
+	"date_found_str": "2020-11-02TT17:19:52.608Z",
+	"notable_features_str": "Spot on Rear Left Leg",
+	"petname_str": "Pickles"
+},{
+	"breed_str": "Bulldog",
+	"gender_str": "Male",
+	"date_found_str": "2020-11-05T12:30:52.608Z",
+	"notable_features_str": "Scar on Right Eye",
+	"petname_str": "Dave"
+},{
+	"breed_str": "Basset Hound",
+	"date_found_str": "2020-09-02T16:12:52.608Z",
+	"gender_str": "Female",
+	"notable_features_str": "White with brown spots",
+	"petname_str": "Lady"
+},{
+	"breed_str": "Pomeranian",
+	"date_found_str": "2020-09-02T16:07:58.608Z",
+	"gender_str": "Male",
+	"notable_features_str": "White bread",
+	"petname_str": "Bob"
+},{
+	"breed_str": "Maltese",
+	"gender_str": "Female",
+	"date_found_str": "2020-11-02TT17:19:52.608Z",
+	"notable_features_str": "Long, White fur",
+	"petname_str": "Elsa"
+},{
+	"breed_str": "Beagle",
+	"gender_str": "Female",
+	"date_found_str": "2020-11-02TT17:19:52.608Z",
+	"notable_features_str": "Has no tail",
+	"petname_str": "Baily"
+},{
+	"breed_str": "Husky",
+	"gender_str": "Female",
+	"date_found_str": "2020-12-02TT17:19:52.608Z",
+	"notable_features_str": "Different eye colors. Once green and one blue",
+	"petname_str": "Bella"
+},{
+	"breed_str": "Goldendoodle",
+	"gender_str": "Female",
+	"date_found_str": "2020-10-02TT17:19:52.608Z",
+	"notable_features_str": "Black, curly fur",
+	"petname_str": "Bailey"
+},{
+	"breed_str": "Greyhound",
+	"gender_str": "Male",
+	"date_found_str": "2020-10-02TT17:19:52.608Z",
+	"notable_features_str": "Overweight",
+	"petname_str": "Peanut"
+},{
+	"breed_str": "Shih-tzu",
+	"gender_str": "Male",
+	"date_found_str": "2020-09-02TT17:19:52.608Z",
+	"notable_features_str": "White raccon face mask",
+	"petname_str": "Bowie"
+},{
+	"breed_str": "Shih-Tzu",
+	"gender_str": "Female",
+	"date_found_str": "2020-08-02TT17:19:52.608Z",
+	"notable_features_str": "Left ear short",
+	"petname_str": "Cujina"
+},{
+	"breed_str": "Chihuahua",
+	"gender_str": "Male",
+	"date_found_str": "2020-01-02TT17:19:52.608Z",
+	"notable_features_str": "Not friendly with other dogs",
+	"petname_str": "Cujo"
+},{
+	"breed_str": "Rottweiler",
+	"gender_str": "Female",
+	"date_found_str": "2020-01-02TT17:19:52.608Z",
+	"notable_features_str": "Sleeps on her back",
+	"petname_str": "Daisy"
+},{
+	"breed_str": "Dalmatian",
+	"gender_str": "Male",
+	"date_found_str": "2020-01-02TT17:19:52.608Z",
+	"notable_features_str": "Deaf",
+	"petname_str": "Spots"
+},{
+	"breed_str": "French Bulldog",
+	"gender_str": "Female",
+	"date_found_str": "2020-01-02TT17:19:52.608Z",
+	"notable_features_str": "Does not like baths",
+	"petname_str": "Princess"
+},{
+	"breed_str": "Golden Retriever",
+	"gender_str": "Female",
+	"date_found_str": "2020-12-02TT17:19:52.608Z",
+	"notable_features_str": "Does not like dry kibble",
+	"petname_str": "Kate"
+},{
+	"breed_str": "Pitbull",
+	"gender_str": "Female",
+	"date_found_str": "2020-01-02TT17:19:52.608Z",
+	"notable_features_str": "Scar on front leftleg",
+	"petname_str": "Missy"
+},{
+	"breed_str": "Border Collie",
+	"gender_str": "Male",
+	"date_found_str": "2020-01-02TT17:19:52.608Z",
+	"notable_features_str": "Very energetic",
+	"petname_str": "Speed"
+},{
+	"breed_str": "Dachshund",
+	"gender_str": "Male",
+	"date_found_str": "2020-01-02TT17:19:52.608Z",
+	"notable_features_str": "Very short legs",
+	"petname_str": "Timmy"
+},{
+	"breed_str": "Bloodhound",
+	"gender_str": "Male",
+	"date_found_str": "2020-01-02TT17:19:52.608Z",
+	"notable_features_str": "Howls at night",
+	"petname_str": "Buck"
+},{
+	"breed_str": "Husky",
+	"gender_str": "Male",
+	"date_found_str": "2020-01-02TT17:19:52.608Z",
+	"notable_features_str": "Black spots on body",
+	"petname_str": "Ralph"
+}]
